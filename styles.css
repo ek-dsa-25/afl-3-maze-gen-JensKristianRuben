@@ -1,0 +1,6 @@
+body {
+    background: radial-gradient(circle at center, #ffdde1, #ee9ca7);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
